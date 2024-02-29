@@ -5,7 +5,7 @@ This template provides a minimal setup to get React working in Vite and powered 
 Currently, using following plugin :
 [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 
-## Features
+## :game_die: Features
 
 - [React](https://react.dev/) - A JavaScript library for building user interfaces.
 - [Vite](https://vitejs.dev/) - A fast, opinionated frontend build tool.
@@ -16,7 +16,7 @@ Currently, using following plugin :
 - Autoprefixer - A PostCSS plugin to parse CSS and add vendor prefixes.
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps.
 
-## Prerequisites
+## :scroll: Prerequisites
 
 Make sure you have the following installed on your development machine:
 
