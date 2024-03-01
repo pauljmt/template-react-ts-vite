@@ -1,0 +1,46 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0.3,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+
+  "files.autoSave": "onFocusChange",
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "yarn.lock": true,
+    "package-lock.json": true
+  },
+  "emmet.includeLanguages": {
+    "twig": "html"
+  },
+
+  "git.confirmSync": false,
+
+  "workbench.iconTheme": "material-icon-theme"
+  // "workbench.colorTheme": "GitHub Dark",
+  // "workbench.colorCustomizations": {}
+}
+
+// VS Code Extensions ordered by name:
+// - Auto Rename Tag
+// - Error Lens
+// - ES7 + React/Redux/React-Native snippets
+// - ESLint
+// - Git Graph
+// - GitLens
+// - Material Icon Theme
+// - Prettier - Code formatter
+// - Prisma (optional)
+// - Sass(.sass only)
+// - SCSS IntelliSense
+// - XML
