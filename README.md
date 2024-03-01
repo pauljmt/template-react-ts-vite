@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Shadcn/ui
 
 This template provides a minimal setup to get React working in Vite and powered by shadcn/ui.
 
@@ -43,7 +43,7 @@ Follow these steps to get started with the react-vite-ui template:
 
 `npm run dev`
 
-### List of VS Code extensions to use
+## :cookie: VS Code extensions to use
 
 - Auto Rename Tag
 - Error Lens
