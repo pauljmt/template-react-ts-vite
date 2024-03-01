@@ -30,17 +30,3 @@
   // "workbench.colorTheme": "GitHub Dark",
   // "workbench.colorCustomizations": {}
 }
-
-// VS Code Extensions ordered by name:
-// - Auto Rename Tag
-// - Error Lens
-// - ES7 + React/Redux/React-Native snippets
-// - ESLint
-// - Git Graph
-// - GitLens
-// - Material Icon Theme
-// - Prettier - Code formatter
-// - Prisma (optional)
-// - Sass(.sass only)
-// - SCSS IntelliSense
-// - XML

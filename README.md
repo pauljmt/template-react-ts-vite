@@ -42,3 +42,18 @@ Follow these steps to get started with the react-vite-ui template:
 4. Start the development server:
 
 `npm run dev`
+
+### List of VS Code extensions to use
+
+- Auto Rename Tag
+- Error Lens
+- ES7 + React/Redux/React-Native snippets
+- ESLint
+- Git Graph
+- GitLens
+- Material Icon Theme
+- Prettier - Code formatter
+- Prisma (optional)
+- Sass(.sass only)
+- SCSS IntelliSense
+- XML
